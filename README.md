@@ -33,5 +33,4 @@ The application provides a simple menu-driven interface for adding, displaying, 
 - **Python 3**
 - **CSV module** - Used to store and manage student records
 - **Tabulate library** - Used to display student records in a formatted table
-
   └── statement.md
