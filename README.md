@@ -37,6 +37,6 @@ The application provides a simple menu-driven interface for adding, displaying, 
 
 ## Step to run
 ### Required Libraries
--The `csv` module is included with Python and does not require separate installation.
--Install the `tabulate` library using: pip install tabulate
--Then just run the CSEproject.py (If you want then you can keep .csv file in the same folder as code or else if you want fresh file then donot add it as the program will automatically create one)
+- The `csv` module is included with Python and does not require separate installation.
+- Install the `tabulate` library using: pip install tabulate
+- Then just run the CSEproject.py (If you want then you can keep .csv file in the same folder as code or else if you want fresh file then donot add it as the program will automatically create one)
